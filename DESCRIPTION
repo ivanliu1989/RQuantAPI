@@ -1,0 +1,10 @@
+Package: RQuantAPI
+Type: Package
+Title: A collection of functions of API connections from different brokers
+Version: 0.1.0
+Author: Ivan Liu
+Maintainer: Ivan Liu <ivan.liuyanfeng@gmail.com>
+Description: More about what it does (maybe more than one line)
+License: What license is it under?
+LazyData: TRUE
+RoxygenNote: 6.0.1
